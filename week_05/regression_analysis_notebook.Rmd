@@ -4,7 +4,7 @@ author: "Experiments and Causality"
 date: \today
 output: pdf_document
 ---
-The Tennessee STAR experiment is a shining example of a well run, well executed randomized controlled experiment. Here is code, and data that reproduces the tables that are published in *Mostly Harmless Econometrics* written by Angrist and Pischke. These tables are, themselves, reproductions of tables published in Kruger (1999). 
+The Tennessee STAR experiment is a shining example of a well run, well executed randomized controlled experiment. Here is code, and data that reproduces the tables that are published in *Mostly Harmless Econometrics* written by Angrist and Pischke. These tables are, themselves, reproductions of tables published in Krueger (1999). 
 
 # Download the data 
 
